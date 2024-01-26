@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Mawuli here! 👋
 
 <!--
 **kofi-amenyo/Kofi-amenyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Material Science and Engineer sharing my journey with Engineering and Design with tech as one of my tools</br>
+Currently learning about Data Analytics and how to share my ideas with Data  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kofi-amenyo)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Mawuli's GitHub stats](https://github-readme-stats.vercel.app/api?username=kofi-amenyo&hide=contribs,prs,issues&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
